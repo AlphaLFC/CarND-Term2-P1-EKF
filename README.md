@@ -29,7 +29,7 @@ For [sample data1](data/sample-laser-radar-measurement-data-1.txt) and
 the final prediction against gt RMSEs are tabled as follows.
 
 | RMSE for data1 |RMSE for data2|
-| --------- | --------- |
+| :-------: | :-------: |
 | 0.0651648 | 0.185496  |
 | 0.0605379 | 0.190302  |
 | 0.533212  | 0.476754  |
