@@ -25,19 +25,22 @@ Run tests for the sample data.
 ```
 
 For [sample data1](data/sample-laser-radar-measurement-data-1.txt), the RMSE is
+
 | RMSE      |
-|----------:|
+| --------: |
 | 0.0651648 |
 | 0.0605379 |
 | 0.533212  |
-| 0.544193  |.
+| 0.544193  |
+.
 
 For [sample data2](data/sample-laser-radar-measurement-data-2.txt), the RMSE is
 | RMSE      |
-|----------:|
+| --------: |
 | 0.185496  |
 | 0.190302  |
 | 0.476754  |
-| 0.804469  |.
+| 0.804469  |
+.
 
 Both satisfy the rubic requirements.
